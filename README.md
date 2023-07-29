@@ -1,4 +1,4 @@
-# Visibility-Climate-Prediction
+# Visibility-Climate-Prediction using Machine learning
 
 ## Introduction
 
